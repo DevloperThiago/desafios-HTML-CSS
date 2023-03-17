@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: rgb(36, 35, 35);
+}
+
+.titulo {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.videos {
+    display: flex;
+    justify-content: center;
+}
